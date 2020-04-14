@@ -1,3 +1,5 @@
+#THE API INTEGRATION IS DONE USING DJANGO MODULE IN AWS LIGHTSAIL -THAT IS NOT INCLUDED
+
 from sudo easy_install pip import *
 import numpy as np
 import pandas as pd
